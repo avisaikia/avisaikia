@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinav Saikia</h1>
-<h3 align="leftr">I'm a dedicated Java and Android developer with a knack for crafting elegant and efficient solutions. I thrive on the challenges that app development brings and am constantly exploring new ways to improve my skills. Collaborating on open-source projects to contribute back to the community.</h3>
+<h3 align="leftr">I'm a dedicated Java and Android developer with a knack for crafting elegant and efficient solutions. I thrive on the challenges that app development brings and I am constantly exploring new ways to improve my skills. Collaborating on open-source projects to contribute back to the community.</h3>
 
 - 🌱 I’m currently learning **Java Programming and DSA**
 
