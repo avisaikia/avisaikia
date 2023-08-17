@@ -2,6 +2,7 @@
 <h3 align="leftr">I'm a dedicated Java and Android developer with a knack for crafting elegant and efficient solutions. I thrive on the challenges that app development brings and I am constantly exploring new ways to improve my skills. Collaborating on open-source projects to contribute back to the community.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avisaikia&label=Profile%20views&color=0e75b6&style=flat" alt="avisaikia" /> </p>
  🌱 I’m currently learning Java Programming and DSA
+ <a href="https://app.daily.dev/avisaikia"><img src="https://api.daily.dev/devcards/ae5a8305b4c148f2a4654829031331ef.png?r=vwo" width="400" alt="Abhinav Saikia's Dev Card"/></a>
 
  📫 How to reach me:
 - 
@@ -28,5 +29,7 @@ Languages and Tools:
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/avisaikia29"> 
   <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/avisaikia29" /></a></p><br><br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=avisaikia&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
