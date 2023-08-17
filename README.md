@@ -2,8 +2,7 @@
 <h3 align="leftr">I'm a dedicated Java and Android developer with a knack for crafting elegant and efficient solutions. I thrive on the challenges that app development brings and I am constantly exploring new ways to improve my skills. Collaborating on open-source projects to contribute back to the community.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avisaikia&label=Profile%20views&color=0e75b6&style=flat" alt="avisaikia" /> </p>
  🌱 I’m currently learning Java Programming and DSA
- <a href="https://app.daily.dev/avisaikia"><img src="https://api.daily.dev/devcards/ae5a8305b4c148f2a4654829031331ef.png?r=vwo" width="400" alt="Abhinav Saikia's Dev Card"/></a>
-
+ 
  📫 How to reach me:
 - 
   Have a project in mind, want to collaborate, or just want to chat about tech? Feel free to shoot me an email at abhinavsaikia618@gmail.com
