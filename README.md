@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhinav Saikia</h1>
+<h1 align="center">Hi 👋,I'm Abhinav Saikia</h1>
 <h3 align="leftr">I'm a BCA graduate with a keen interest in Java programming and Android app development. I thrive on the challenges that app development brings and I am constantly exploring new ways to improve my skills. </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avisaikia&label=Profile%20views&color=0e75b6&style=flat" alt="avisaikia" /> </p>
  🌱 I’m currently learning Java Programming and DSA
